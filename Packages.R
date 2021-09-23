@@ -39,6 +39,7 @@ library(stopwords) #Task Stopwords
 library(wordcloud) #Untuk membuat wordcloud
 library(RColorBrewer) #Untuk memberikan warna
 
+
 ## Beberapa packages mungkin ada yang memiliki fungsi yg sama seperti twitteR dan rtweet
-## Keran rtweet adalah packages terbaru dan terupdate untuk crawling data tweet twitter
+## Karena rtweet adalah packages terbaru dan terupdate untuk crawling data tweet twitter
 ## Tetapi kedua packages tersebut tetap dijalankan untuk menutupi fungsi yg tidak dimiliki masing-masing packages
