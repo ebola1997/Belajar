@@ -1,11 +1,11 @@
 library(rtweet)
 
 token <- create_token(
-  app = "Prakerja",
-  consumer_key = "k0iL0GZoHnGSfXoeHoNjAz20T",
-  consumer_secret = "hzh5mBGHdDd9Ci1rNW5WIFr4zdtHt5CiL4hDeXNmscfz3904cp",
-  access_token = "821731748-kAk1xTZLTAc1upSBptUYMW7qmiNquq8Rw6n9KOa1",
-  access_secret = "mQ7oEZpzYw0PTb2kIArb3dWEDbFGwgmEKTFA6nNSGO2YW")
+  app = "Praxxx",
+  consumer_key = "xxxxx",
+  consumer_secret = "xxxxx",
+  access_token = "xxxxx",
+  access_secret = "xxxxx")
 identical(token,get_token())
 
 
