@@ -1,3 +1,7 @@
+Credits to Aliyah, Mas Devid, Bing Liu dan Tala
+
+#REFERENCES If you use this list, please cite the following papers:
+
 Kamus Normalisai Menggunakan Hasil dari Penelitian Aliyah https://ieeexplore.ieee.org/abstract/document/8629151 (https://github.com/nasalsabila/kamus-alay)
 
 Kamus Lexicon Positif - Negatif Menggunakan Hasil dari Penelitian Devid 
