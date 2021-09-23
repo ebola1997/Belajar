@@ -1,4 +1,4 @@
-# Belajar Text Analis dengan R
+# Belajar Text Analisis dengan R
 
 Perkenalkan nama saya Fikri Rama Singgih
 
