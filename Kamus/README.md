@@ -5,4 +5,4 @@ Kamus Lexicon Positif - Negatif Menggunakan Hasil dari Penelitian Devid
 Liu, Bing, Hu, Minqing, and Cheng, Junsheng (2005). "Opinion Observer: Analyzing and Comparing Opinions on the Web." Proceedings of the 14th International World Wide Web Conference (WWW-2005), May 10-14, Chiba, Japan. 
 sumber (https://github.com/masdevid/ID-OpinionWords)
 
-Kamus Stopword
+Kamus Stopword Tala, F. Z. (2003). A Study of Stemming Effects on Information Retrieval in Bahasa Indonesia. M.S. thesis. M.Sc. Thesis. Master of Logic Project. Institute for Logic, Language and Computation. Universiteti van Amsterdam The Netherlands.
