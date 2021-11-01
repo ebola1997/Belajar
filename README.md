@@ -9,5 +9,4 @@ Hello, I'am Fikri Rama Singgih. Welcome to my Github
 You can follow me or giving me star if you're intrested in text analyst using Language Programming R or Python
 You can also contact me through email: fikrirama79@gmail.com
 
-*P.S Python code is still secret thought LOL
 
