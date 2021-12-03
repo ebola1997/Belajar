@@ -1,0 +1,43 @@
+Radial        Prediksi
+Aktual    Negatif Netral Positif
+  Negatif     121      0       0
+  Netral        0    123       0
+  Positif       2      0     130
+
+
+Sigmoid        Prediksi
+Aktual    Negatif Netral Positif
+  Negatif     115      6       0
+  Netral        0    116       7
+  Positif       0      9     123
+
+
+
+			2
+Radial Prediksi
+Aktual    Negatif Netral Positif
+  Negatif      91      0       0
+  Netral        0     92       0
+  Positif       2      0      97
+
+Sigmoid Prediksi
+Aktual    Negatif Netral Positif
+  Negatif      84      7       0
+  Netral        0     87       5
+  Positif       0      7      92
+
+
+			3
+Sigmoid 	Prediksi
+Aktual    Negatif Netral Positif
+  Negatif      48     12       0
+  Netral        0     61       1
+  Positif       0      6      60
+
+
+			4
+Sigmoid		Prediksi
+Aktual    Negatif Netral Positif
+  Negatif      30      0       0
+  Netral        1     30       0
+  Positif       0      3      30
